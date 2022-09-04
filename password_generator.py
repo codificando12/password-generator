@@ -13,4 +13,4 @@ def pas_generator():
     print("Your password is: ", new_pass)
     
 if __name__ == '__main__':
-    pas_generator() 
+    pas_generator()
